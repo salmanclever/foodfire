@@ -19,7 +19,7 @@
     "@nuxtjs/robots": "^2.4.0",
     "@nuxtjs/sitemap": "^1.3.0",
     "@nuxtjs/toast": "^3.2.1",
-    "cookie-universal-nuxt": "^2.0.17",
+    "cookie-universal-nuxt": "^2.1.4",
     "cross-env": "^5.2.1",
     "firebase": "^6.6.1",
     "helmet": "^3.21.0",
